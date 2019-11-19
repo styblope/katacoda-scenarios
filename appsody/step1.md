@@ -6,7 +6,7 @@ You can install Appsody on your system in a few easy steps by using our binary p
 
 Download the latest install package from the [Appsody releases page](https://github.com/appsody/appsody/releases):
 
-`wget https://github.com/appsody/appsody/releases/download/0.4.10/appsody_0.4.10_amd64.deb`{{execute}}
+`wget https://github.com/appsody/appsody/releases/download/0.5.0/appsody_0.5.0_amd64.deb`{{execute}}
 
 Install the package:
 
