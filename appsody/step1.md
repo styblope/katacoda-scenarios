@@ -10,4 +10,4 @@ Download the latest install package from the [Appsody releases page](https://git
 
 Install the package:
 
-`sudo dpkg -i appsody_0.4.10_amd64.deb`{{execute}}
+`sudo dpkg -i appsody_0.5.0_amd64.deb`{{execute}}
